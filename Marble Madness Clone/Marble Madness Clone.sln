@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{F6C58C13-57C1-4F44-44C8-18AE019948D5}") = "Marble Madness Clone", "Assembly-CSharp-firstpass.csproj", "{8A6EEA21-7E2E-E2E2-191E-C4E51BCC54DD}"
+EndProject
+Project("{F6C58C13-57C1-4F44-44C8-18AE019948D5}") = "Marble Madness Clone", "Assembly-CSharp.csproj", "{7CFA3FE2-7827-E89D-7BFC-7A1DF651C132}"
+EndProject
+Project("{F6C58C13-57C1-4F44-44C8-18AE019948D5}") = "Marble Madness Clone", "Assembly-CSharp-Editor.csproj", "{4C9F5A3D-8BFB-01C7-1379-01597DE44687}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A6EEA21-7E2E-E2E2-191E-C4E51BCC54DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A6EEA21-7E2E-E2E2-191E-C4E51BCC54DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A6EEA21-7E2E-E2E2-191E-C4E51BCC54DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A6EEA21-7E2E-E2E2-191E-C4E51BCC54DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CFA3FE2-7827-E89D-7BFC-7A1DF651C132}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CFA3FE2-7827-E89D-7BFC-7A1DF651C132}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CFA3FE2-7827-E89D-7BFC-7A1DF651C132}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CFA3FE2-7827-E89D-7BFC-7A1DF651C132}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C9F5A3D-8BFB-01C7-1379-01597DE44687}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C9F5A3D-8BFB-01C7-1379-01597DE44687}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C9F5A3D-8BFB-01C7-1379-01597DE44687}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C9F5A3D-8BFB-01C7-1379-01597DE44687}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
